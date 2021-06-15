@@ -1,6 +1,6 @@
 # Capstone 2 Project
 ## InspectMap - NYC Restaurant Health Violation Viewer
-## Demo - ![DemoSite](https://adamant-vase.surge.sh/)
+## Online Demo [InspectMap](https://adamant-vase.surge.sh/)
 
 This project is my second capstone for the software engineering program on Springboard. The idea is to create a website in which user can browse NYC restaurants health violation painlessly.
 
